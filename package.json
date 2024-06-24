@@ -1,0 +1,20 @@
+{
+  "name": "first-app2",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "../../Users/sojdzezz/Desktop/udemy-express/node-first-app2/node_modules/.bin/nodemon app.js",
+    "start-server": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
