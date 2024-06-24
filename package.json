@@ -1,10 +1,10 @@
 {
-  "name": "first-app2",
+  "name": "guide-nodejs",
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "../../Users/sojdzezz/Desktop/udemy-express/node-first-app2/node_modules/.bin/nodemon app.js",
+    "start": "nodemon app.js",
     "start-server": "node app.js"
   },
   "keywords": [],
